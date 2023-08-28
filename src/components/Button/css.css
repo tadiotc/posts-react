@@ -1,0 +1,10 @@
+.btposts{
+    padding: 1rem;
+    margin-top: 1rem;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+.btposts:disabled{
+    background-color: dimgrey;
+    color:dimgrey ;
+}
